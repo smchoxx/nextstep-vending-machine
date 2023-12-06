@@ -1,7 +1,7 @@
 <p align="middle" >
   <img src="https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/536baaa17ed346bb851cc9f663edb069" width="400">
 </p>
-  <h1 align="middle">자바스크립트와 Cypress로 구현하는 자판기</h1>
+  
   <p align="middle">
     <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
     <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
@@ -10,6 +10,22 @@
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"/>
   </p>
 </p>
+
+# 자바스크립트와 Cypress로 구현하는 자판기
+[TDD 강의](https://edu.nextstep.camp/c/BRaNdTQx) 실습을 위한 자판기 머신 애플리케이션
+
+NEXTSTEP TDD, 클린코드 with JavaScript 3기 미션 구현 코드입니다.
+미션을 통해 클린 코드, 리팩토링, Cypress를 이용한 E2E 테스트를 진행했습니다.</br>
+
+이 과정에서 상품관리, 잔돈충전, 상품구매, 잔돈 계산 모듈 기능을 구현함에 있어 객체지향 개념을 적용하여 유지보수와 확장성 좋은 코드를 만들기 위한 고민의 과정을 거쳤습니다.
+
+코드리뷰 링크
+- 1, 2주차 미션:
+  - [Step1 - 상품관리](https://github.com/next-step/js-vending-machine/pull/62)
+  - [Step2 - 잔돈충전](https://github.com/next-step/js-vending-machine/pull/62)
+- 3, 4주차 미션:
+  - [Step3 - 상품구매](https://github.com/next-step/js-vending-machine/pull/63)
+  - [Step4 - 잔돈계산](https://github.com/next-step/js-vending-machine/pull/63)
 
 ## ⚙️ Before Started
 
